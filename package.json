@@ -1,0 +1,21 @@
+{
+  "name": "amj_281_todo_list_cli",
+  "version": "1.0.1",
+  "main": "main.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abdullah",
+  "license": "ISC",
+  "description": "This is a cli based todo_list",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
